@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithpatricia" alt="codewithpatricia" /></a> </p>
 
-![NAME github stats](https://github-readme-stats.vercel.app/apiusername=codeWithPatricia&show_icons=true&theme=radical)
-
 - 🌱 I’m currently learning **Blender**
 
 <h3 align="left">Connect with me:</h3>
