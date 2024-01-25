@@ -1,5 +1,5 @@
 <h1 align="Left">Hi there 👋</h1>
-<h3 align="center">A passionate frontend developer and a Data Analyst from .</h3>
+<h3 align="Left">A passionate frontend developer and a Data Analyst from .</h3>
 
 I'm <b class="big-text"> Iheagwara Patricia Onyekachukwu </b>, a passionate frontend developer, UI/UX designer and Data Analyst  based in Nigeria. 🚀
 
