@@ -1,17 +1,21 @@
-<h1 align="Left">Hi there 👋</h1>
-<h3 align="Left">A passionate frontend developer and a Data Analyst from Nigeria.</h3>
+# Hi there 👋
 
-I'm <b class="big-text"> Iheagwara Patricia Onyekachukwu </b>, a passionate frontend developer, UI/UX designer and Data Analyst. 🚀
+A passionate frontend developer and a Data Analyst from Nigeria.
 
-🌐 Web Development
+I'm **Iheagwara Patricia Onyekachukwu**, a passionate frontend developer, UI/UX designer, and Data Analyst. 🚀
 
-🎨 UI/UX Design
+## 🌟 About Me
+- 🌐 [Web Development](https://github.com/yourusername/web-development-projects)  
+- 🎨 [UI/UX Design](https://github.com/yourusername/ui-ux-design-projects)  
+- 📊 [Data Analysis and BI](https://github.com/codeWithPatricia/Projects/tree/main/Data%20Analysis)  
+- 🌌 [3D Enthusiast](https://github.com/yourusername/ui-ux-design-projects)  
+- 💡 Always Learning  
 
-📊 Data Analysis and BI
+Feel free to explore my work and reach out for collaborations or inquiries!
 
-🌌 3D Enthusiast
+---
+✨ **Check out more projects [here](https://github.com/yourusername).** ✨
 
-💡 Always Learning 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://linkedin.com/in/iheagwara-onyekachukwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iheagwara-onyekachukwu" height="30" width="40" /></a> <a href="https://www.novypro.com/profile_projects/iheagwarapatricia-onyekachuwu" target="blank"><img align="center" img src="https://f2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io/f1652315708983x844618127003955700/novyPro%20SVG%20full%20Logo%20White%20Text.svg"  alt="iheagwara-onyekachukwu" height="90" width="100" /></a> </p>
