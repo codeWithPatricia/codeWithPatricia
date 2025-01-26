@@ -5,16 +5,16 @@ A passionate frontend developer and a Data Analyst from Nigeria.
 I'm **Iheagwara Patricia Onyekachukwu**, a passionate frontend developer, UI/UX designer, and Data Analyst. 🚀
 
 ## 🌟 About Me
-- 🌐 [Web Development](https://github.com/yourusername/web-development-projects)  
-- 🎨 [UI/UX Design](https://github.com/yourusername/ui-ux-design-projects)  
+- 🌐 [Web Development](https://github.com/codeWithPatricia/Projects/tree/main/Web%20Development)  
+<!-- - 🎨 [UI/UX Design](https://github.com/yourusername/ui-ux-design-projects)  -->
 - 📊 [Data Analysis and BI](https://github.com/codeWithPatricia/Projects/tree/main/Data%20Analysis)  
-- 🌌 [3D Enthusiast](https://github.com/yourusername/ui-ux-design-projects)  
+<!-- - 🌌 [3D Enthusiast](https://github.com/yourusername/ui-ux-design-projects)  -->
 - 💡 Always Learning  
 
 Feel free to explore my work and reach out for collaborations or inquiries!
 
 ---
-✨ **Check out more projects [here](https://github.com/yourusername).** ✨
+✨ **Check out more projects [here](https://github.com/codeWithPatricia/Projects/tree/main).** ✨
 
 
 <h3 align="left">Connect with me:</h3>
