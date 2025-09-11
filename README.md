@@ -33,6 +33,8 @@ Feel free to explore my work and reach out for collaborations or inquiries!
   </a>
   <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Unreal_Engine_Logo.png" alt="Unreal Engine" width="80"/>
+
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/unity-technologies-logo.svg" alt="unity" width="40" height="40"/> 
