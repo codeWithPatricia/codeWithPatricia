@@ -5,15 +5,18 @@ A passionate frontend developer and a Data Analyst from Nigeria.
 I'm **Iheagwara Patricia Onyekachukwu**, a passionate frontend developer, UI/UX designer, and Data Analyst. 🚀
 
 ## 🌟 About Me
+- 🎮 [Game Development](https://github.com/codeWithPatricia/Game-Development) 
 - 🌐 [Web Development](https://github.com/codeWithPatricia/Projects/tree/main/Web%20Development)  
 <!-- - 🎨 [UI/UX Design](https://github.com/yourusername/ui-ux-design-projects)  -->
-- 📊 [Data Analysis and BI](https://github.com/codeWithPatricia/Projects/tree/main/Data%20Analysis)  
+<!-- - 📊 [Data Analysis and BI](https://github.com/codeWithPatricia/Projects/tree/main/Data%20Analysis)  -->
 <!-- - 🌌 [3D Enthusiast](https://github.com/yourusername/ui-ux-design-projects)  -->
 - 💡 Always Learning  
 
 Feel free to explore my work and reach out for collaborations or inquiries!
 
 ---
+✨ **Check out more projects on my [GitHub Repositories](https://github.com/codeWithPatricia?tab=repositories).** ✨  
+
 ✨ **Check out more projects [here](https://github.com/codeWithPatricia/Projects/tree/main).** ✨
 
 
@@ -23,6 +26,23 @@ Feel free to explore my work and reach out for collaborations or inquiries!
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-
+## 🎮 Game Development Tools
+<p align="left">
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
+  </a>
+  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/unity-technologies-logo.svg" alt="unity" width="40" height="40"/> 
+  </a>
+  <a href="https://www.renpy.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/339539?s=200&v=4" alt="renpy" width="40" height="40"/> 
+  </a>
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="godot" width="40" height="40"/> 
+  </a>
+</p>
 
 
