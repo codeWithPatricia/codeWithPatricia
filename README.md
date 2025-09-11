@@ -42,7 +42,7 @@ Feel free to explore my work and reach out for collaborations or inquiries!
 <p align="left">
   <a href="https://www.blender.org/" target="blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
   <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://en.m.wikipedia.org/wiki/Unreal_Engine#/media/File%3AUnreal_Engine_Logo_(new_typeface).svg" alt="unreal" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Unreal_Engine_Logo_%28new_typeface%29.svg/740px-Unreal_Engine_Logo_%28new_typeface%29.svg.png" alt="unreal" width="40" height="40"/> 
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/unity-technologies-logo.svg" alt="unity" width="40" height="40"/> 
