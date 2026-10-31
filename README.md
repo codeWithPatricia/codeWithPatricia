@@ -20,7 +20,7 @@ Feel free to explore my work and reach out for collaborations or inquiries!
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://linkedin.com/in/iheagwara-onyekachukwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iheagwara-onyekachukwu" height="30" width="40" /></a> <a href="https://www.novypro.com/profile_projects/iheagwarapatricia-onyekachuwu" target="blank"><img align="center" img src="https://f2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io/f1652315708983x844618127003955700/novyPro%20SVG%20full%20Logo%20White%20Text.svg"  alt="iheagwara-onyekachukwu" height="90" width="100" /></a> </p>
+<p align="left"><a href="https://linkedin.com/in/iheagwara-onyekachukwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iheagwara-onyekachukwu" height="30" width="40" /></a>  </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
